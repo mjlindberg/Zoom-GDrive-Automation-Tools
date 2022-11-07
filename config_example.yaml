@@ -1,0 +1,9 @@
+user_id:
+  "your_zoom_email"
+zoom_cred:
+  "zoom_client_secret_file_path"
+gdrive_dir:
+  "gdrive_directory_id"
+mimetypes:
+  "not_implemented"
+
